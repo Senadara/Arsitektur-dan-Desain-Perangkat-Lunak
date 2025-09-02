@@ -1,0 +1,8 @@
+com\mycompany\payment_solid\service\PaymentProcessor.class
+com\mycompany\payment_solid\service\TransactionHistory.class
+com\mycompany\payment_solid\Payment_solid.class
+com\mycompany\payment_solid\model\BankTransferPayment.class
+com\mycompany\payment_solid\model\Transaction.class
+com\mycompany\payment_solid\model\CreditCardPayment.class
+com\mycompany\payment_solid\model\EWalletPayment.class
+com\mycompany\payment_solid\model\Payment.class

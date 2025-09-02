@@ -1,0 +1,6 @@
+projectKey=todolist-sol
+serverUrl=http://localhost:9099
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9099/dashboard?id=todolist-sol
+ceTaskId=0f4f7ab9-95a5-4ee8-9c0c-6e4e6d4f8e58
+ceTaskUrl=http://localhost:9099/api/ce/task?id=0f4f7ab9-95a5-4ee8-9c0c-6e4e6d4f8e58
